@@ -1,21 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1b7db26.chunk.css",
-    "main.js": "/static/js/main.5c1b1b87.chunk.js",
-    "main.js.map": "/static/js/main.5c1b1b87.chunk.js.map",
+    "main.css": "/static/css/main.b17f1b22.chunk.css",
+    "main.js": "/static/js/main.af16398e.chunk.js",
+    "main.js.map": "/static/js/main.af16398e.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.7a040e46.chunk.js": "/static/js/2.7a040e46.chunk.js",
-    "static/js/2.7a040e46.chunk.js.map": "/static/js/2.7a040e46.chunk.js.map",
+    "static/js/2.629656fa.chunk.js": "/static/js/2.629656fa.chunk.js",
+    "static/js/2.629656fa.chunk.js.map": "/static/js/2.629656fa.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.63fba9e5e445825b230a561a58ea7fe5.js": "/precache-manifest.63fba9e5e445825b230a561a58ea7fe5.js",
+    "precache-manifest.a51893cee9ccf2c37308afd7613c6b7e.js": "/precache-manifest.a51893cee9ccf2c37308afd7613c6b7e.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.d1b7db26.chunk.css.map": "/static/css/main.d1b7db26.chunk.css.map",
+    "static/css/main.b17f1b22.chunk.css.map": "/static/css/main.b17f1b22.chunk.css.map",
+    "static/media/App.css": "/static/media/Righteous-Regular.77fa0099.ttf",
     "static/media/DSC_0287.jpg": "/static/media/DSC_0287.235d713b.jpg",
     "static/media/Home.css": "/static/media/home.f65642b6.jpg",
+    "static/media/at.svg": "/static/media/at.c4748264.svg",
+    "static/media/Portfolio.css": "/static/media/blue-wave-3.d2827256.svg",
     "static/media/facebook.svg": "/static/media/facebook.f4c2b29b.svg",
     "static/media/github.svg": "/static/media/github.fa344108.svg",
     "static/media/instagram.svg": "/static/media/instagram.f8af51e6.svg",
-    "static/media/linkedin.svg": "/static/media/linkedin.0b000652.svg"
+    "static/media/linkedin.svg": "/static/media/linkedin.0b000652.svg",
+    "static/media/location.svg": "/static/media/location.d9d208a8.svg",
+    "static/media/phone.svg": "/static/media/phone.4e0c281b.svg"
   }
 }
