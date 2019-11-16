@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.761f3ccd.chunk.css",
+    "main.css": "/static/css/main.5dc4ffe8.chunk.css",
     "main.js": "/static/js/main.d2205dd7.chunk.js",
     "main.js.map": "/static/js/main.d2205dd7.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
@@ -8,9 +8,9 @@
     "static/js/2.629656fa.chunk.js": "/static/js/2.629656fa.chunk.js",
     "static/js/2.629656fa.chunk.js.map": "/static/js/2.629656fa.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.45965880e080513315b9b7d12c88894b.js": "/precache-manifest.45965880e080513315b9b7d12c88894b.js",
+    "precache-manifest.7cfce5ca0571572d53ea96e8ae6d6283.js": "/precache-manifest.7cfce5ca0571572d53ea96e8ae6d6283.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.761f3ccd.chunk.css.map": "/static/css/main.761f3ccd.chunk.css.map",
+    "static/css/main.5dc4ffe8.chunk.css.map": "/static/css/main.5dc4ffe8.chunk.css.map",
     "static/media/App.css": "/static/media/Righteous-Regular.77fa0099.ttf",
     "static/media/DSC_0287.jpg": "/static/media/DSC_0287.235d713b.jpg",
     "static/media/Home.css": "/static/media/home.f65642b6.jpg",
