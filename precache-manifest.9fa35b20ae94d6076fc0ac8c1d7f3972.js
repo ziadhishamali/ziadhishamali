@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9769457765cf38d409e6b7ea281414d4",
+    "revision": "a000ee7ad62e49ad7f76ee294f992c00",
     "url": "/index.html"
   },
   {
-    "revision": "1d66c99eb882450f63e0",
-    "url": "/static/css/main.3bc111b7.chunk.css"
+    "revision": "2da69cbeb9ec0222901e",
+    "url": "/static/css/main.8fa048cd.chunk.css"
   },
   {
-    "revision": "b7f8004566689f510793",
-    "url": "/static/js/2.629656fa.chunk.js"
+    "revision": "7d0368e21f2c52343711",
+    "url": "/static/js/2.c56a2213.chunk.js"
   },
   {
-    "revision": "1d66c99eb882450f63e0",
-    "url": "/static/js/main.3581cdc5.chunk.js"
+    "revision": "2da69cbeb9ec0222901e",
+    "url": "/static/js/main.af2b28e7.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -40,8 +40,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Righteous-Regular.77fa0099.ttf"
   },
   {
-    "revision": "c47482641074518f4026ac0a7244ac33",
-    "url": "/static/media/at.c4748264.svg"
+    "revision": "b6964a5be0b8c372ce8bd987f1d27aac",
+    "url": "/static/media/Vibes-Regular.b6964a5b.ttf"
+  },
+  {
+    "revision": "46ca15c3273fe2cadbccf0e77f50a018",
+    "url": "/static/media/at.46ca15c3.svg"
+  },
+  {
+    "revision": "944aab207f878c2f68ca0375a424c355",
+    "url": "/static/media/background.944aab20.jpg"
   },
   {
     "revision": "d282725656e8b20b8c8fa307df3c56da",
@@ -50,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f4c2b29bd9993ed857675ad8c4d2d333",
     "url": "/static/media/facebook.f4c2b29b.svg"
+  },
+  {
+    "revision": "e4f2d6b028d93b8c7988d2132bf13ca2",
+    "url": "/static/media/github.e4f2d6b0.svg"
   },
   {
     "revision": "fa344108608bad345a667b420c5a5f85",
@@ -72,7 +84,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/location.d9d208a8.svg"
   },
   {
-    "revision": "4e0c281b533dba047cb1fa2b3202f4cb",
-    "url": "/static/media/phone.4e0c281b.svg"
+    "revision": "953e368fd50ad350ac3897afd401c594",
+    "url": "/static/media/phone.953e368f.svg"
+  },
+  {
+    "revision": "b9f18286e1f9bfb55b5689fb674bf08c",
+    "url": "/static/media/twitter.b9f18286.svg"
+  },
+  {
+    "revision": "f6041d5b83336c74850338b7d8010c4f",
+    "url": "/static/media/upwork.f6041d5b.svg"
   }
 ]);
