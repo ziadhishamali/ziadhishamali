@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a5a46ce1fb0f57da5b2f26eb9f09d9d",
+    "revision": "6e747255689bde33d93077f0898e136e",
     "url": "/index.html"
   },
   {
-    "revision": "57774d7c49251b711bd6",
-    "url": "/static/css/main.ef0dd53f.chunk.css"
+    "revision": "a773160ce706413e0f75",
+    "url": "/static/css/main.c1a3bff5.chunk.css"
   },
   {
-    "revision": "da6ee69df77c100c63a0",
-    "url": "/static/js/2.c45740d8.chunk.js"
+    "revision": "ec7625b14eab1f2a467e",
+    "url": "/static/js/2.7defe639.chunk.js"
   },
   {
     "revision": "df9a2345527e8e050ee4ac031c1be725",
-    "url": "/static/js/2.c45740d8.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.7defe639.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "57774d7c49251b711bd6",
-    "url": "/static/js/main.32c2bd75.chunk.js"
+    "revision": "a773160ce706413e0f75",
+    "url": "/static/js/main.b7c6f068.chunk.js"
   },
   {
     "revision": "a787026724aa966534e4",
@@ -36,8 +36,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/FugazOne-Regular.a7803ddf.ttf"
   },
   {
+    "revision": "136f9cd0959c3d8826aceda089bb02ee",
+    "url": "/static/media/Lalezar-Regular.136f9cd0.ttf"
+  },
+  {
     "revision": "8bdcbb5ca9886923ddd9dda919e88fd5",
     "url": "/static/media/Liquid-Cheese-3.8bdcbb5c.svg"
+  },
+  {
+    "revision": "c6004be49628b1226eb31b068348d24f",
+    "url": "/static/media/LuckiestGuy-Regular.c6004be4.ttf"
   },
   {
     "revision": "77fa00996ecb4104c7880b8749c7c4e0",
@@ -50,10 +58,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "46ca15c3273fe2cadbccf0e77f50a018",
     "url": "/static/media/at.46ca15c3.svg"
-  },
-  {
-    "revision": "944aab207f878c2f68ca0375a424c355",
-    "url": "/static/media/background.944aab20.jpg"
   },
   {
     "revision": "d282725656e8b20b8c8fa307df3c56da",
@@ -94,5 +98,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f6041d5b83336c74850338b7d8010c4f",
     "url": "/static/media/upwork.f6041d5b.svg"
+  },
+  {
+    "revision": "89eafe6faa165c98a5f18f9575c51841",
+    "url": "/static/media/wave-white-line.89eafe6f.svg"
   }
 ]);
