@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31c087cc5bc58773de7fda2390cfb788",
+    "revision": "d83bc54d1cdb192d7766b23b70a7108d",
     "url": "/index.html"
   },
   {
-    "revision": "13a8832b080046dc16f8",
-    "url": "/static/css/main.b3b2ed4d.chunk.css"
+    "revision": "a1d3ba4166d9116c1257",
+    "url": "/static/css/main.c9c878b0.chunk.css"
   },
   {
     "revision": "bd7e21c1b4407975cb84",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.645b0f84.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "13a8832b080046dc16f8",
+    "revision": "a1d3ba4166d9116c1257",
     "url": "/static/js/main.951eaf59.chunk.js"
   },
   {
@@ -60,10 +60,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/at.46ca15c3.svg"
   },
   {
-    "revision": "d282725656e8b20b8c8fa307df3c56da",
-    "url": "/static/media/blue-wave-3.d2827256.svg"
-  },
-  {
     "revision": "f4c2b29bd9993ed857675ad8c4d2d333",
     "url": "/static/media/facebook.f4c2b29b.svg"
   },
@@ -98,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f6041d5b83336c74850338b7d8010c4f",
     "url": "/static/media/upwork.f6041d5b.svg"
+  },
+  {
+    "revision": "675c9126b24b8e38d9f062b3814332af",
+    "url": "/static/media/wave-orange-2.675c9126.svg"
   },
   {
     "revision": "89eafe6faa165c98a5f18f9575c51841",

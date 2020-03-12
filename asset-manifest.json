@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3b2ed4d.chunk.css",
+    "main.css": "/static/css/main.c9c878b0.chunk.css",
     "main.js": "/static/js/main.951eaf59.chunk.js",
     "main.js.map": "/static/js/main.951eaf59.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cd423690.js",
@@ -8,15 +8,14 @@
     "static/js/2.645b0f84.chunk.js": "/static/js/2.645b0f84.chunk.js",
     "static/js/2.645b0f84.chunk.js.map": "/static/js/2.645b0f84.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ebf3619c774e3ca57e39cc12bd982c09.js": "/precache-manifest.ebf3619c774e3ca57e39cc12bd982c09.js",
+    "precache-manifest.360a5e01170ba671adef5ad1b6cb219b.js": "/precache-manifest.360a5e01170ba671adef5ad1b6cb219b.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.b3b2ed4d.chunk.css.map": "/static/css/main.b3b2ed4d.chunk.css.map",
+    "static/css/main.c9c878b0.chunk.css.map": "/static/css/main.c9c878b0.chunk.css.map",
     "static/js/2.645b0f84.chunk.js.LICENSE.txt": "/static/js/2.645b0f84.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/ziad-background-2.c0009eae.jpg",
     "static/media/DSC_0287.jpg": "/static/media/DSC_0287.235d713b.jpg",
     "static/media/Home.css": "/static/media/home.f65642b6.jpg",
     "static/media/at.svg": "/static/media/at.46ca15c3.svg",
-    "static/media/Portfolio.css": "/static/media/blue-wave-3.d2827256.svg",
     "static/media/facebook.svg": "/static/media/facebook.f4c2b29b.svg",
     "static/media/github.svg": "/static/media/github.e4f2d6b0.svg",
     "static/media/instagram.svg": "/static/media/instagram.f8af51e6.svg",
@@ -24,12 +23,13 @@
     "static/media/location.svg": "/static/media/location.d9d208a8.svg",
     "static/media/phone.svg": "/static/media/phone.953e368f.svg",
     "static/media/twitter.svg": "/static/media/twitter.b9f18286.svg",
-    "static/media/upwork.svg": "/static/media/upwork.f6041d5b.svg"
+    "static/media/upwork.svg": "/static/media/upwork.f6041d5b.svg",
+    "static/media/Portfolio.css": "/static/media/wave-orange-2.675c9126.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.cd423690.js",
     "static/js/2.645b0f84.chunk.js",
-    "static/css/main.b3b2ed4d.chunk.css",
+    "static/css/main.c9c878b0.chunk.css",
     "static/js/main.951eaf59.chunk.js"
   ]
 }
