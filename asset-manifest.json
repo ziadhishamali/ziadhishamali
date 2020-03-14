@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.39b5dcfe.chunk.css",
-    "main.js": "/static/js/main.c69c98a7.chunk.js",
-    "main.js.map": "/static/js/main.c69c98a7.chunk.js.map",
+    "main.css": "/static/css/main.b942a798.chunk.css",
+    "main.js": "/static/js/main.b35ea3a9.chunk.js",
+    "main.js.map": "/static/js/main.b35ea3a9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cd423690.js",
     "runtime-main.js.map": "/static/js/runtime-main.cd423690.js.map",
-    "static/js/2.645b0f84.chunk.js": "/static/js/2.645b0f84.chunk.js",
-    "static/js/2.645b0f84.chunk.js.map": "/static/js/2.645b0f84.chunk.js.map",
+    "static/js/2.81442e7e.chunk.js": "/static/js/2.81442e7e.chunk.js",
+    "static/js/2.81442e7e.chunk.js.map": "/static/js/2.81442e7e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.58bf2a17035e5e133067ad8b3bfb6110.js": "/precache-manifest.58bf2a17035e5e133067ad8b3bfb6110.js",
+    "precache-manifest.05b94dbab3ec31109ea74230fdcf748c.js": "/precache-manifest.05b94dbab3ec31109ea74230fdcf748c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.39b5dcfe.chunk.css.map": "/static/css/main.39b5dcfe.chunk.css.map",
-    "static/js/2.645b0f84.chunk.js.LICENSE.txt": "/static/js/2.645b0f84.chunk.js.LICENSE.txt",
+    "static/css/main.b942a798.chunk.css.map": "/static/css/main.b942a798.chunk.css.map",
+    "static/js/2.81442e7e.chunk.js.LICENSE.txt": "/static/js/2.81442e7e.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/ziad-background-2.c0009eae.jpg",
     "static/media/DSC_0287.jpg": "/static/media/DSC_0287.235d713b.jpg",
     "static/media/Home.css": "/static/media/home.f65642b6.jpg",
@@ -23,13 +23,12 @@
     "static/media/location.svg": "/static/media/location.d9d208a8.svg",
     "static/media/phone.svg": "/static/media/phone.953e368f.svg",
     "static/media/twitter.svg": "/static/media/twitter.b9f18286.svg",
-    "static/media/upwork.svg": "/static/media/upwork.f6041d5b.svg",
-    "static/media/Portfolio.css": "/static/media/wave-orange-2.675c9126.svg"
+    "static/media/upwork.svg": "/static/media/upwork.f6041d5b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.cd423690.js",
-    "static/js/2.645b0f84.chunk.js",
-    "static/css/main.39b5dcfe.chunk.css",
-    "static/js/main.c69c98a7.chunk.js"
+    "static/js/2.81442e7e.chunk.js",
+    "static/css/main.b942a798.chunk.css",
+    "static/js/main.b35ea3a9.chunk.js"
   ]
 }
