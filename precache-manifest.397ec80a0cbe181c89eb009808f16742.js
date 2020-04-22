@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "14c27f376f67be4f8eaa4caf2b2e7f5c",
+    "revision": "ec6a246fb3344ebee386c74b6753ba0a",
     "url": "/index.html"
   },
   {
-    "revision": "ee0bfe67c93efdee6f1e",
-    "url": "/static/css/main.e739c8d8.chunk.css"
+    "revision": "fc1cbc2d52589679de3d",
+    "url": "/static/css/main.536edd05.chunk.css"
   },
   {
     "revision": "5f3ca9f3210809481c8e",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.d29e1665.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ee0bfe67c93efdee6f1e",
+    "revision": "fc1cbc2d52589679de3d",
     "url": "/static/js/main.94901363.chunk.js"
   },
   {
@@ -100,7 +100,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/wave-orange-2.675c9126.svg"
   },
   {
-    "revision": "c0009eaef7e89f5cfa6717af20661153",
-    "url": "/static/media/ziad-background-2.c0009eae.jpg"
+    "revision": "559da9c766465c656ae0c71e1d44a33b",
+    "url": "/static/media/ziad-background-2.559da9c7.jpg"
   }
 ]);

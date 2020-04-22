@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.e739c8d8.chunk.css",
+    "main.css": "/static/css/main.536edd05.chunk.css",
     "main.js": "/static/js/main.94901363.chunk.js",
     "main.js.map": "/static/js/main.94901363.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cd423690.js",
@@ -8,11 +8,11 @@
     "static/js/2.d29e1665.chunk.js": "/static/js/2.d29e1665.chunk.js",
     "static/js/2.d29e1665.chunk.js.map": "/static/js/2.d29e1665.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dc33f9965ae6c581881f77f023513100.js": "/precache-manifest.dc33f9965ae6c581881f77f023513100.js",
+    "precache-manifest.397ec80a0cbe181c89eb009808f16742.js": "/precache-manifest.397ec80a0cbe181c89eb009808f16742.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.e739c8d8.chunk.css.map": "/static/css/main.e739c8d8.chunk.css.map",
+    "static/css/main.536edd05.chunk.css.map": "/static/css/main.536edd05.chunk.css.map",
     "static/js/2.d29e1665.chunk.js.LICENSE.txt": "/static/js/2.d29e1665.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/ziad-background-2.c0009eae.jpg",
+    "static/media/App.css": "/static/media/ziad-background-2.559da9c7.jpg",
     "static/media/DSC_0287.jpg": "/static/media/DSC_0287.235d713b.jpg",
     "static/media/Home.css": "/static/media/home.f65642b6.jpg",
     "static/media/at.svg": "/static/media/at.46ca15c3.svg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.cd423690.js",
     "static/js/2.d29e1665.chunk.js",
-    "static/css/main.e739c8d8.chunk.css",
+    "static/css/main.536edd05.chunk.css",
     "static/js/main.94901363.chunk.js"
   ]
 }
