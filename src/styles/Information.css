@@ -1,0 +1,132 @@
+.information-section {
+    position: relative;
+    width: calc((100% - 80px) * 1 / 3);
+    min-width: 400px;
+    height: calc(100% - 40px);
+    /*height: fit-content;*/
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    overflow-y: auto;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.information-section div {
+    display: flex;
+    flex-direction: column;
+    width: calc((100% - 40px));
+    min-width: 350px;
+    height: fit-content;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.information-section .education {
+    background: linear-gradient(135deg, #00b7ff, #00b7ff, #00a9ff, #0099ff, #0099ff);
+    margin-top: 0px;
+}
+
+.information-section .experiences {
+    /*background: linear-gradient(-45deg, #e9c0c4, #ffdde1);*/
+    background-color: white;
+    margin-top: 20px;
+    padding: 0px;
+    width: calc(100%);
+}
+
+.information-section .education span:first-child {
+    color: white;
+}
+
+.information-section .experiences {
+    flex: 1;
+    overflow-y: auto;
+}
+
+.information-section .experiences .scrollable {
+    padding-right: 20px;
+}
+
+.information-section div div {
+    width: 100%;
+    padding: 10px;
+    background: none;
+    margin: 0px;
+}
+
+.information-section div .scrollable {
+    width: calc(100% - 30px);
+}
+
+.information-section div div span {
+    font-family: Righteous;
+    color: #676767;
+    margin-top: 5px;
+    margin-left: 12px;
+    font-size: 16px;
+}
+
+.information-section div div span:first-child {
+    font-family: Righteous;
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+.information-section div div span:nth-child(2) {
+    color: #676767;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.information-section div span {
+    font-family: Righteous;
+    color: white;
+    margin-top: 5px;
+    margin-left: 12px;
+    font-size: 16px;
+}
+
+.information-section div span:first-child {
+    color: #474747;
+    font-family: fugazOne;
+    font-weight: bold;
+    font-size: 22px;
+    margin-bottom: 25px;
+    margin-left: 0px;
+}
+
+.information-section div span:nth-child(2) {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 0px;
+    margin-bottom: 5px;
+}
+
+.information-section div span:last-child {
+    margin-top: 25px;
+    font-weight: bold;
+}
+
+.information-section .experiences .header {
+    color: #474747;
+    font-family: fugazOne;
+    font-weight: bold;
+    font-size: 22px;
+    margin-bottom: 25px;
+    margin-left: 0px;
+    padding: 15px 20px;
+    padding-bottom: 0px;
+}
+
+.information-section .education .header {
+    color: #474747;
+    font-family: fugazOne;
+    font-weight: bold;
+    font-size: 22px;
+    margin-bottom: 25px;
+    margin-left: 0px;
+    padding-bottom: 0px;
+}

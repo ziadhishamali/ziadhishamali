@@ -1,0 +1,46 @@
+.games-wrapper {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background-color: #fcb045;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.games-wrapper h1 {
+    font-size: 45px;
+    font-family: 'Luckiest';
+    font-weight: bold;
+    text-align: center;
+}
+
+.games-back-button {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    background-color: rgba(255, 255, 255, 0.7);
+    box-shadow: 5px 5px 10px 2px rgba(0, 0, 0, 0.1);
+    padding: 0px;
+    margin: 0px;
+    border-radius: 50%;
+    border: none;
+    outline: none;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+
+    transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+}
+
+.games-back-button img {
+    object-fit: contain;
+    margin: 14px;
+}
+
+.games-back-button:hover {
+    background-color: white;
+    transform: scale(1.1);
+}

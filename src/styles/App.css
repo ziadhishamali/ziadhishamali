@@ -1,0 +1,372 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: overlay;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+@font-face {
+  font-family: 'Righteous';
+  src: local('Righteous'), url(../fonts/Righteous-Regular.ttf) format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FugazOne';
+  src: local('FugazOne'), url(../fonts/FugazOne-Regular.ttf) format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Bree Serif';
+  src: local('Bree Serif'), url(../fonts/BreeSerif-Regular.ttf) format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Vibes';
+  src: local('Vibes'), url(../fonts/Vibes-Regular.ttf) format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lalezar';
+  src: local('Lalezar'), url(../fonts/Lalezar-Regular.ttf) format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Luckiest';
+  src: local('Luckiest'), url(../fonts/LuckiestGuy-Regular.ttf) format('truetype');
+  font-display: swap;
+}
+
+/*******************************************************************/
+
+.wrapper {
+  width: 100vw;
+  height: auto;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  display: flex;
+  flex-flow: column;
+  background-color: #0099ffc6;
+  /*background-image: url(../images/background.jpg);
+  background-attachment: fixed;
+  background-size: cover;*/
+  background: url(../images/ziad-background-2.webp) no-repeat;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.home-wrapper {
+  position: relative;
+  display: flex;
+  flex-flow: column;
+  width: 100vw;
+  height: auto;
+  z-index: 1000000;
+}
+
+.wave-background-home {
+  width: calc(100% + 40px);
+  margin-left: -20px;
+  height: 260px;
+  background: url(../images/wave-white-line.svg) no-repeat; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  opacity: 0.95;
+}
+
+.information-wrapper {
+  margin-top: 0px;
+  width: calc((100vw));
+  height: calc(100vh);
+  display: flex;
+  flex-flow: row wrap;
+  overflow-y: overlay;
+  background-color: rgba(255, 255, 255, 0.9);
+
+}
+
+
+.no-align {
+  align-items: unset !important;
+}
+
+.align {
+  align-items: center !important;
+}
+
+.align-center {
+  text-align: center !important;
+}
+
+.align-left {
+  text-align: left;
+}
+
+.justify {
+  justify-content: center !important;
+}
+
+.flex-row {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.orange-text {
+  color: orange;
+}
+
+.blue-text {
+  color: #0099ff;
+}
+
+.small-text {
+  font-size: 15px;
+}
+
+.medium-text {
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.bold {
+  font-weight: 500;
+}
+
+.bolder {
+  font-weight: bolder;
+}
+
+.berlin {
+  font-family: "Berlin Sans FB";
+}
+
+.forte {
+  font-family: "Forte" !important;
+}
+
+.righteous {
+  font-family: "Righteous";
+}
+
+.fugazOne {
+  font-family: "fugazOne";
+}
+
+.vibes {
+  font-family: "Vibes";
+}
+
+.arial {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.auto-height {
+  min-height: 95vh;
+  padding-bottom: 5vh;
+  height: auto;
+}
+
+.auto-width {
+  min-width: 80vw;
+  width: auto;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  position: absolute;
+  background-color: transparent;
+  /*background-image: url("../images/home.jpg");*/
+}
+
+::-webkit-scrollbar-thumb {
+  background: #833ab460;
+  border-radius: 4px;
+  -webkit-transition-duration: 0.3s; /* Safari */
+  transition-duration: 0.3s;
+}
+
+::-webkit-scrollbar-thumb:active {
+  background: #833ab4;
+}
+
+@media only screen and (max-width: 1100px) {
+  ::-webkit-scrollbar {
+    width: 8px;
+    position: absolute;
+    display: none;
+    background-color: transparent;
+    /*background-image: url("../images/home.jpg");*/
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #833ab4;
+    border-radius: 4px;
+  }
+}
+
+
+@media only screen and (max-width: 1110px) {
+  .bio div:first-child {
+    margin-left: 0px;
+    margin-bottom: -40px;
+    font-size: 80px;
+    font-family: Luckiest;
+    color: #fcb045;
+  }
+
+  .social-links-container {
+    margin-top: 80px;
+  }
+
+  .bio {
+    margin-top: 0px;
+  }
+
+  .logo-container {
+    width: 100% !important;
+  }
+
+  .bio-container {
+    width: calc(100% - 0px) !important;
+  }
+  
+  .wrapper {
+    flex-flow: column;
+  }
+  
+  .home-wrapper {
+    width: calc(100vw);
+    height: auto;
+  }
+
+  .bio-section {
+    border-radius: 20px;
+  }
+  
+  .information-wrapper {
+    width: calc(100vw);
+    height: auto;
+    display: flex;
+    flex-flow: row wrap;
+    flex: none !important;
+    overflow-y: auto;
+  }
+
+  .information-section {
+    margin-top: 10px;
+    width: calc((100% - 20px)) !important;
+    height: auto !important;
+    min-width: 0px !important;
+    padding: 10px !important;
+  }
+
+  .information-section div {
+    min-width: 0px !important;
+  }
+
+  .skill-section {
+    width: calc((100% - 20px)) !important;
+    height: auto !important;
+    min-width: 0px !important;
+    margin: 10px !important;
+  }
+
+  .white-box {
+    width: auto !important;
+    max-width: none !important;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+
+  .logo-container {
+    flex-direction: column;
+  }
+
+  .logo-circle {
+      margin-top: 100px;
+      margin-left: 0px;
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+      background: linear-gradient(-45deg, #fd1d1d, #833ab4);
+      box-shadow: 0px 12px 18px rgba(0, 0, 0, 0.2);
+  }
+
+  .logo-circle div:first-child {
+      position: relative;
+      width: 250px;
+      height: 250px;
+      border-radius: 50%;
+      border: 2px solid #833ab4;
+      left: -27.5px;
+      top: -27.5px;
+  }
+
+  .logo-circle div:last-child {
+      position: relative;
+      border-radius: 50%;
+      border: 2px solid #833ab4;
+      width: 300px;
+      height: 300px;
+      left: -52.5px;
+      top: -308.5px;
+  }
+
+  .logo-name {
+      position: relative;
+      top: -100px;
+      left: 0px;
+  }
+
+  .name {
+    font-size: 32px;
+  }
+
+  .nameAr {
+      font-size: 32px;
+  }
+}

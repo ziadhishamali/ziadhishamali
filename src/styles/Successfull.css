@@ -1,0 +1,51 @@
+.successfull-area, .fail-area, .sending-area {
+    position: absolute;
+    top: -12vh;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 12vh;
+    background-color: rgb(113, 255, 113);
+    z-index: 9000;
+    transition: all 0.4s ease-in-out;
+}
+
+.fail-area {
+    background-color: rgb(255, 113, 113);
+}
+
+.sending-area {
+    background-color: rgb(113, 215, 255);
+}
+
+.successfull-area h2, .fail-area h2, .sending-area h2 {
+    font-size: 20px;
+    color: white;
+    font-family: "Forte";
+    text-align: center;
+    margin: 0px;
+    margin-top: 5px;
+}
+
+.successfull-area h3, .fail-area h3 {
+    font-size: 16px;
+    color: white;
+    font-family: "Berlin Sans FB";
+    font-weight: 200;
+    text-align: center;
+    margin-top: 10px;
+}
+
+@media only screen and (max-width: 850px) {
+    .successfull-area, .fail-area, .sending-area {
+        top: -15vh;
+        height: 15vh;
+    }
+}
+
+.moveSuccessDown {
+    top: 0vh;
+}

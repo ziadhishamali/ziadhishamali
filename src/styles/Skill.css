@@ -1,0 +1,12 @@
+.skill-section {
+    width: calc((100% - 50px) * 2 / 3);
+    min-width: 350px;
+    height: calc(100% - 40px);
+    /*padding: 20px;
+    padding-right: 20px;*/
+    border-radius: 20px;
+    /*background: linear-gradient(-45deg, #e9c0c4, #ffdde1);*/
+    background-color: white;
+    margin-top: 20px;
+    margin-right: 20px;
+}

@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9003e658.chunk.css",
+    "main.js": "/static/js/main.1665c416.chunk.js",
+    "main.js.map": "/static/js/main.1665c416.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cd423690.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cd423690.js.map",
+    "static/js/2.9a2a8309.chunk.js": "/static/js/2.9a2a8309.chunk.js",
+    "static/js/2.9a2a8309.chunk.js.map": "/static/js/2.9a2a8309.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.56b3f299566f43e53ffd8238a53834ba.js": "/precache-manifest.56b3f299566f43e53ffd8238a53834ba.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9003e658.chunk.css.map": "/static/css/main.9003e658.chunk.css.map",
+    "static/js/2.9a2a8309.chunk.js.LICENSE.txt": "/static/js/2.9a2a8309.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/ziad-background-2.7acf787f.webp",
+    "static/media/DSC_0287.jpg": "/static/media/DSC_0287.235d713b.jpg",
+    "static/media/Home.css": "/static/media/home.f65642b6.jpg",
+    "static/media/at.svg": "/static/media/at.46ca15c3.svg",
+    "static/media/facebook.svg": "/static/media/facebook.f4c2b29b.svg",
+    "static/media/github.svg": "/static/media/github.e4f2d6b0.svg",
+    "static/media/instagram.svg": "/static/media/instagram.f8af51e6.svg",
+    "static/media/left-arrow-1.svg": "/static/media/left-arrow-1.6c9efe0c.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.0b000652.svg",
+    "static/media/location.svg": "/static/media/location.d9d208a8.svg",
+    "static/media/phone.svg": "/static/media/phone.953e368f.svg",
+    "static/media/twitter.svg": "/static/media/twitter.b9f18286.svg",
+    "static/media/upwork.svg": "/static/media/upwork.f6041d5b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd423690.js",
+    "static/js/2.9a2a8309.chunk.js",
+    "static/css/main.9003e658.chunk.css",
+    "static/js/main.1665c416.chunk.js"
+  ]
+}

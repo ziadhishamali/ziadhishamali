@@ -1,0 +1,117 @@
+.no-justify{
+    justify-content: unset !important;
+}
+
+.no-align {
+    align-items: unset !important;
+}
+
+.align {
+    align-items: center !important;
+}
+
+.align-center {
+    text-align: center !important;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.justify {
+    justify-content: center !important;
+}
+
+.flex-row {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.orange-text {
+    color: orange !important;
+}
+
+.blue-text {
+    color: #0099ff;
+}
+
+.small-text {
+    font-size: 15px;
+}
+
+.medium-text {
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.bold {
+    font-weight: 500;
+}
+
+.bolder {
+    font-weight: bolder;
+}
+
+.berlin {
+    font-family: "Berlin Sans FB";
+}
+
+.forte {
+    font-family: "Forte" !important;
+}
+
+.arial {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.auto-height {
+    min-height: 95vh;
+    padding-bottom: 5vh;
+    height: auto;
+}
+
+.auto-width {
+    min-width: 80vw;
+    width: auto;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.aboutme {
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(108, 108, 108);
+    text-align: left;
+}
+
+.myImage {
+    object-fit: contain;
+    align-self: flex-start;
+    border: 20px solid #0099ff;
+    width: 150px;
+    border-radius: 50%;
+}
+
+@media only screen and (max-width: 850px) {
+    .about-section {
+        flex-direction: column !important;
+        justify-content: center !important;
+        align-items: center !important;
+    }
+
+    .myImage {
+        align-self: center !important;
+        margin: 0 !important;
+    }
+
+    .aboutme {
+        text-align: center;
+    }
+}

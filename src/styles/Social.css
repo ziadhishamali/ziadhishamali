@@ -1,0 +1,64 @@
+.social-full {
+    position: fixed;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2000;
+    bottom: 0;
+}
+
+.social {
+    font-family: "Berlin Sans FB";
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+.social-background {
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 20px 20px 0px 0px;
+    padding: 5px;
+}
+
+.social-link {
+    width: 48px;
+    object-fit: contain;
+    text-align: center;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.5s;
+}
+
+.social-link:hover {
+    width: 60px;
+}
+
+.link-name {
+    text-align: center;
+    margin: 0px;
+}
+
+.button-circle {
+    background-color: #4accff;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 20px 20px 0px 0px;
+    outline-style: none;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+}
+
+.button-circle:hover {
+    background-color: #0a97cf;
+    border: none;
+}
+
+.button-circle:focus {
+    border: none;
+}
+
+.button-circle:active {
+    background-color: #4accff;
+    border: none;
+}
