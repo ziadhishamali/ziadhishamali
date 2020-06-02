@@ -9,4 +9,5 @@ Contents of the website:
 4) Games section with some games that I built to keep you entertained.
 
 Note: This is the production version as the original code isn't open source.
+
 Note: The website will be open source after the copyright is issued.
