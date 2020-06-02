@@ -8,6 +8,7 @@ Contents of the website:
 3) portofolio of my work with filters to find the projects with certain technologies with ease.
 4) Games section with some games that I built to keep you entertained.
 
+
 Note: This is the production version as the original code isn't open source.
 
 Note: The website will be open source after the copyright is issued.
