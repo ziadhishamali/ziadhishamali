@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f929e49819089cdf5fef4d9a1a5258b3",
+    "revision": "8ddb224123beaa3ca189f63cd96269c4",
     "url": "/index.html"
   },
   {
-    "revision": "071f4c8b97628bcfe607",
-    "url": "/static/css/main.e1a7475c.chunk.css"
+    "revision": "2a354d50f1a83c2d09fe",
+    "url": "/static/css/main.b9f2043c.chunk.css"
   },
   {
     "revision": "dfa3f859766b9b75089b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.e873c187.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "071f4c8b97628bcfe607",
+    "revision": "2a354d50f1a83c2d09fe",
     "url": "/static/js/main.fda635fb.chunk.js"
   },
   {
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/linkedin.0b000652.svg"
   },
   {
-    "revision": "98add363af1311e8d257282bb3e209cb",
-    "url": "/static/media/purple-wave-11.98add363.svg"
+    "revision": "612fe6ecc5de4a421d46059d616760fc",
+    "url": "/static/media/purple-wave-14.612fe6ec.svg"
   },
   {
     "revision": "b9f18286e1f9bfb55b5689fb674bf08c",
