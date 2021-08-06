@@ -6,10 +6,10 @@ import { ViewSocial } from '../viewing/ViewSocial';
 class Home extends Component {
     state = {
         resume: "",
-        header: "Undergraduate Software Engineer",
+        header: "Software Engineer",
         name: "ZIAD HISHAM ALI",
         nameAr: "زياد هشام علي",
-        aboutMe: "I'm an undergraduate at Computer and Sytems Engineering Department, Faculty of Engineering, Alexandria University and expected to graduate in 2021. I'm passionate for technology and everything that comes with it. Currently I'm more focused on full stack web development and machine learning. My hobbies are a lot I like football, cycling, running, reading books and of course making new awesome web-applications",
+        aboutMe: "I'm a Software Engineer graduated from Computer and Sytems Engineering Department, Faculty of Engineering, Alexandria University in July 2021. I'm passionate for technology and everything that comes with it. Currently I'm more focused on full stack web development and machine learning. My hobbies are a lot I like football, cycling, running, reading books and of course making new awesome web-applications",
     }
 
     componentDidMount() {
